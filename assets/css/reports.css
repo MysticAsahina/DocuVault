@@ -1,0 +1,27 @@
+.main-content {
+    margin-top: 80px;
+    padding-left: 275px;
+    padding-right: 275px;
+}
+
+.card-body {
+    background: rgb(30, 75, 255);
+}
+
+.card-stat {
+    max-width: 200px; 
+    margin: 0 auto; 
+}
+.card-stat .card-body {
+    padding: 1rem; 
+}
+.card-stat h1 {
+    font-size: 1.5rem; /
+}
+.card-stat h5 {
+    font-size: 1rem; 
+}
+.files {
+    max-width: 800px;  
+    margin: 0 auto; 
+}
